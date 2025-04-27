@@ -1,0 +1,49 @@
+# Dataset files
+malaria-detection\Malaria Dataset
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+*.bmp
+*.gif
+
+# Model files
+*.h5
+*.hdf5
+*.pb
+*.ckpt
+*.pt
+*.pth
+saved_models/
+checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
